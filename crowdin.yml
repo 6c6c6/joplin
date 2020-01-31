@@ -1,0 +1,3 @@
+files:
+  - source: CliClient/locales/*.pot
+    translation: '%original_path%/%locale_with_underscore%.po'
