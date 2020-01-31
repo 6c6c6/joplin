@@ -12,7 +12,7 @@ msgstr ""
 "X-Crowdin-Project: joplin\n"
 "X-Crowdin-Language: uk\n"
 "X-Crowdin-File: /master/CliClient/locales/joplin.pot\n"
-"PO-Revision-Date: 2020-01-31 13:58\n"
+"PO-Revision-Date: 2020-01-31 14:23\n"
 
 #: /mnt/c/Users/laurent/src/joplin/Tools/../CliClient/app/app-gui.js:445
 msgid "To delete a tag, untag the associated notes."
@@ -20,24 +20,24 @@ msgstr ""
 
 #: /mnt/c/Users/laurent/src/joplin/Tools/../CliClient/app/app-gui.js:455
 msgid "Please select the note or notebook to be deleted first."
-msgstr ""
+msgstr "Будь ласка, спочатку виберіть нотатку або блокнот для видалення."
 
 #: /mnt/c/Users/laurent/src/joplin/Tools/../CliClient/app/app-gui.js:719
 msgid "Press Ctrl+D or type \"exit\" to exit the application"
-msgstr ""
+msgstr "Для виходу з програми натисніть Ctrl+D або введіть \"exit\""
 
 #: /mnt/c/Users/laurent/src/joplin/Tools/../CliClient/app/app.js:61
 #, javascript-format
 msgid "More than one item match \"%s\". Please narrow down your query."
-msgstr ""
+msgstr "Більше одного елемента відповідають вираженню \"%s\". Будь ласка, уточніть ваш запит."
 
 #: /mnt/c/Users/laurent/src/joplin/Tools/../CliClient/app/app.js:91
 msgid "No notebook selected."
-msgstr ""
+msgstr "Блокнот не вибрано."
 
 #: /mnt/c/Users/laurent/src/joplin/Tools/../CliClient/app/app.js:97
 msgid "No notebook has been specified."
-msgstr ""
+msgstr "Не вказан блокнот."
 
 #: /mnt/c/Users/laurent/src/joplin/Tools/../CliClient/app/app.js:136
 #: /mnt/c/Users/laurent/src/joplin/Tools/../CliClient/app/cli-utils.js:160
@@ -59,26 +59,26 @@ msgstr ""
 
 #: /mnt/c/Users/laurent/src/joplin/Tools/../CliClient/app/app.js:169
 msgid "Cancelling background synchronisation... Please wait."
-msgstr ""
+msgstr "Скасування фонової синхронізації... Будь ласка, зачекайте."
 
 #: /mnt/c/Users/laurent/src/joplin/Tools/../CliClient/app/app.js:254
 #, javascript-format
 msgid "No such command: %s"
-msgstr ""
+msgstr "Такої команди не існує: %s"
 
 #: /mnt/c/Users/laurent/src/joplin/Tools/../CliClient/app/app.js:302
 #, javascript-format
 msgid "The command \"%s\" is only available in GUI mode"
-msgstr ""
+msgstr "Команда \"%s\" доступна тільки в режимі GUI"
 
 #: /mnt/c/Users/laurent/src/joplin/Tools/../CliClient/app/base-command.js:15
 msgid "Cannot change encrypted item"
-msgstr ""
+msgstr "Неможливо змінити зашифрований елемент"
 
 #: /mnt/c/Users/laurent/src/joplin/Tools/../CliClient/app/cli-utils.js:108
 #, javascript-format
 msgid "Missing required argument: %s"
-msgstr ""
+msgstr "Відсутній необхідний аргумент: %s"
 
 #: /mnt/c/Users/laurent/src/joplin/Tools/../CliClient/app/cli-utils.js:139
 #: /mnt/c/Users/laurent/src/joplin/Tools/../ReactNativeClient/lib/services/report.js:151
@@ -88,16 +88,16 @@ msgstr ""
 
 #: /mnt/c/Users/laurent/src/joplin/Tools/../CliClient/app/cli-utils.js:143
 msgid "Your choice: "
-msgstr ""
+msgstr "Ваш вибір:"
 
 #: /mnt/c/Users/laurent/src/joplin/Tools/../CliClient/app/cli-utils.js:150
 #, javascript-format
 msgid "Invalid answer: %s"
-msgstr ""
+msgstr "Неправильна відповідь: %s"
 
 #: /mnt/c/Users/laurent/src/joplin/Tools/../CliClient/app/command-attach.js:13
 msgid "Attaches the given file to the note."
-msgstr ""
+msgstr "Додає файл до нонатки."
 
 #: /mnt/c/Users/laurent/src/joplin/Tools/../CliClient/app/command-attach.js:21
 #: /mnt/c/Users/laurent/src/joplin/Tools/../CliClient/app/command-cat.js:24
@@ -128,15 +128,15 @@ msgstr ""
 #: /mnt/c/Users/laurent/src/joplin/Tools/../ReactNativeClient/lib/services/InteropService.js:239
 #, javascript-format
 msgid "Cannot find \"%s\"."
-msgstr ""
+msgstr "Не вдалося знайти \"%s\"."
 
 #: /mnt/c/Users/laurent/src/joplin/Tools/../CliClient/app/command-cat.js:13
 msgid "Displays the given note."
-msgstr ""
+msgstr "Відображає задану нотатку."
 
 #: /mnt/c/Users/laurent/src/joplin/Tools/../CliClient/app/command-cat.js:17
 msgid "Displays the complete information about note."
-msgstr ""
+msgstr "Відображає повну інформацію про нотатку."
 
 #: /mnt/c/Users/laurent/src/joplin/Tools/../CliClient/app/command-config.js:13
 msgid "Gets or sets a config value. If [value] is not provided, it will show the value of [name]. If neither [name] nor [value] is provided, it will list the current configuration."
@@ -144,7 +144,7 @@ msgstr ""
 
 #: /mnt/c/Users/laurent/src/joplin/Tools/../CliClient/app/command-config.js:18
 msgid "Also displays unset and hidden config variables."
-msgstr ""
+msgstr "Також виводить невстановлені і приховані параметри конфігурації."
 
 #: /mnt/c/Users/laurent/src/joplin/Tools/../CliClient/app/command-config.js:79
 #, javascript-format
@@ -158,16 +158,16 @@ msgstr ""
 
 #: /mnt/c/Users/laurent/src/joplin/Tools/../CliClient/app/command-cp.js:13
 msgid "Duplicates the notes matching <note> to [notebook]. If no notebook is specified the note is duplicated in the current notebook."
-msgstr ""
+msgstr "Дублює нотатки, відповідні вислову <note>, в блокнот [notebook]. Якщо блокнот не обрано — нотатки дублюються в поточному блокноті."
 
 #: /mnt/c/Users/laurent/src/joplin/Tools/../CliClient/app/command-done.js:14
 msgid "Marks a to-do as done."
-msgstr ""
+msgstr "Позначає завдання як виконану"
 
 #: /mnt/c/Users/laurent/src/joplin/Tools/../CliClient/app/command-done.js:21
 #, javascript-format
 msgid "Note is not a to-do: \"%s\""
-msgstr ""
+msgstr "Нотатка не є завданням: \"%s\""
 
 #: /mnt/c/Users/laurent/src/joplin/Tools/../CliClient/app/command-e2ee.js:18
 msgid "Manages E2EE configuration. Commands are `enable`, `disable`, `decrypt`, `status`, `decrypt-file` and `target-status`."
@@ -182,31 +182,31 @@ msgstr ""
 #: /mnt/c/Users/laurent/src/joplin/Tools/../CliClient/app/command-e2ee.js:50
 #: /mnt/c/Users/laurent/src/joplin/Tools/../CliClient/app/command-e2ee.js:55
 msgid "Operation cancelled"
-msgstr ""
+msgstr "Операцію скасовано"
 
 #: /mnt/c/Users/laurent/src/joplin/Tools/../CliClient/app/command-e2ee.js:53
 #: /mnt/c/Users/laurent/src/joplin/Tools/../ReactNativeClient/lib/components/screens/encryption-config.js:165
 msgid "Confirm password:"
-msgstr ""
+msgstr "Підтвердіть пароль:"
 
 #: /mnt/c/Users/laurent/src/joplin/Tools/../CliClient/app/command-e2ee.js:59
 #: /mnt/c/Users/laurent/src/joplin/Tools/../ReactNativeClient/lib/components/screens/encryption-config.js:143
 msgid "Passwords do not match!"
-msgstr ""
+msgstr "Паролі не збігаються!"
 
 #: /mnt/c/Users/laurent/src/joplin/Tools/../CliClient/app/command-e2ee.js:76
 msgid "Starting decryption... Please wait as it may take several minutes depending on how much there is to decrypt."
-msgstr ""
+msgstr "Запуск розшифрування... Будь ласка, зачекайте. Розшифровка може зайняти кілька хвилин, в залежності від обсягу даних."
 
 #: /mnt/c/Users/laurent/src/joplin/Tools/../CliClient/app/command-e2ee.js:93
 msgid "Completed decryption."
-msgstr ""
+msgstr "Розшифровка завершена."
 
 #: /mnt/c/Users/laurent/src/joplin/Tools/../CliClient/app/command-e2ee.js:100
 #: /mnt/c/Users/laurent/src/joplin/Tools/../ElectronClient/app/gui/EncryptionConfigScreen.min.js:337
 #: /mnt/c/Users/laurent/src/joplin/Tools/../ReactNativeClient/lib/components/screens/encryption-config.js:281
 msgid "Enabled"
-msgstr ""
+msgstr "Увімкнено"
 
 #: /mnt/c/Users/laurent/src/joplin/Tools/../CliClient/app/command-e2ee.js:100
 #: /mnt/c/Users/laurent/src/joplin/Tools/../ElectronClient/app/gui/EncryptionConfigScreen.min.js:337
@@ -223,28 +223,28 @@ msgstr ""
 
 #: /mnt/c/Users/laurent/src/joplin/Tools/../CliClient/app/command-edit.js:17
 msgid "Edit note."
-msgstr ""
+msgstr "Редагувати нотатку."
 
 #: /mnt/c/Users/laurent/src/joplin/Tools/../CliClient/app/command-edit.js:30
 msgid "No text editor is defined. Please set it using `config editor <editor-path>`"
-msgstr ""
+msgstr "Текстовий редактор не заданий. Задайте його командою"
 
 #: /mnt/c/Users/laurent/src/joplin/Tools/../CliClient/app/command-edit.js:40
 msgid "No active notebook."
-msgstr ""
+msgstr "Немає активного блокнота."
 
 #: /mnt/c/Users/laurent/src/joplin/Tools/../CliClient/app/command-edit.js:46
 #, javascript-format
 msgid "Note does not exist: \"%s\". Create it?"
-msgstr ""
+msgstr "Не існує нотатки: \"%s\". Створити?"
 
 #: /mnt/c/Users/laurent/src/joplin/Tools/../CliClient/app/command-exit.js:11
 msgid "Exits the application."
-msgstr ""
+msgstr "Вийти з програми."
 
 #: /mnt/c/Users/laurent/src/joplin/Tools/../CliClient/app/command-export.js:13
 msgid "Exports Joplin data to the given path. By default, it will export the complete database including notebooks, notes, tags and resources."
-msgstr ""
+msgstr "Експортує дані Joplin в зазначений каталог. За замовчуванням експортується повна база даних, включаючи блокноти, нотатки, мітки і ресурси."
 
 #: /mnt/c/Users/laurent/src/joplin/Tools/../CliClient/app/command-export.js:23
 #, javascript-format
@@ -369,15 +369,15 @@ msgstr ""
 #: /mnt/c/Users/laurent/src/joplin/Tools/../ElectronClient/app/gui/ImportScreen.min.js:89
 #, javascript-format
 msgid "The notes have been imported: %s"
-msgstr ""
+msgstr "Імпортовано нотаток: %s"
 
 #: /mnt/c/Users/laurent/src/joplin/Tools/../CliClient/app/command-ls.js:18
 msgid "Displays the notes in the current notebook. Use `ls /` to display the list of notebooks."
-msgstr ""
+msgstr "Виводить нотатки поточного блокнота. Для виведення списку блокнотів використайте `ls /`"
 
 #: /mnt/c/Users/laurent/src/joplin/Tools/../CliClient/app/command-ls.js:26
 msgid "Displays only the first top <num> notes."
-msgstr ""
+msgstr "Виводить тільки перші <num> нотаток."
 
 #: /mnt/c/Users/laurent/src/joplin/Tools/../CliClient/app/command-ls.js:26
 msgid "Sorts the item by <field> (eg. title, updated_time, created_time)."
@@ -385,7 +385,7 @@ msgstr ""
 
 #: /mnt/c/Users/laurent/src/joplin/Tools/../CliClient/app/command-ls.js:26
 msgid "Reverses the sorting order."
-msgstr ""
+msgstr "Зворотний порядок сортування."
 
 #: /mnt/c/Users/laurent/src/joplin/Tools/../CliClient/app/command-ls.js:26
 msgid "Displays only the items of the specific type(s). Can be `n` for notes, `t` for to-dos, or `nt` for notes and to-dos (eg. `-tt` would display only the to-dos, while `-ttd` would display notes and to-dos."
@@ -393,33 +393,33 @@ msgstr ""
 
 #: /mnt/c/Users/laurent/src/joplin/Tools/../CliClient/app/command-ls.js:26
 msgid "Either \"text\" or \"json\""
-msgstr ""
+msgstr "Або \"text\" або \"json\""
 
 #: /mnt/c/Users/laurent/src/joplin/Tools/../CliClient/app/command-ls.js:26
 #: /mnt/c/Users/laurent/src/joplin/Tools/../CliClient/app/command-tag.js:18
 msgid "Use long list format. Format is ID, NOTE_COUNT (for notebook), DATE, TODO_CHECKED (for to-dos), TITLE"
-msgstr ""
+msgstr "Використати розширений формат списку. Поля формату: ID, NOTE_COUNT (для блокнотів), DATE, TODO_CHECKED (для задач), TITLE"
 
 #: /mnt/c/Users/laurent/src/joplin/Tools/../CliClient/app/command-ls.js:56
 msgid "Please select a notebook first."
-msgstr ""
+msgstr "Спочатку виберіть блокнот."
 
 #: /mnt/c/Users/laurent/src/joplin/Tools/../CliClient/app/command-mkbook.js:12
 msgid "Creates a new notebook."
-msgstr ""
+msgstr "Створює новий блокнот."
 
 #: /mnt/c/Users/laurent/src/joplin/Tools/../CliClient/app/command-mknote.js:12
 msgid "Creates a new note."
-msgstr ""
+msgstr "Створює нову нотатку."
 
 #: /mnt/c/Users/laurent/src/joplin/Tools/../CliClient/app/command-mknote.js:16
 #: /mnt/c/Users/laurent/src/joplin/Tools/../CliClient/app/command-mktodo.js:16
 msgid "Notes can only be created within a notebook."
-msgstr ""
+msgstr "Нотатки можуть бути створені тільки в блокноті."
 
 #: /mnt/c/Users/laurent/src/joplin/Tools/../CliClient/app/command-mktodo.js:12
 msgid "Creates a new to-do."
-msgstr ""
+msgstr "Створює нову задачу."
 
 #: /mnt/c/Users/laurent/src/joplin/Tools/../CliClient/app/command-mv.js:14
 msgid "Moves the notes matching <note> to [notebook]."
@@ -431,7 +431,7 @@ msgstr ""
 
 #: /mnt/c/Users/laurent/src/joplin/Tools/../CliClient/app/command-rmbook.js:13
 msgid "Deletes the given notebook."
-msgstr ""
+msgstr "Видаляє заданий блокнот."
 
 #: /mnt/c/Users/laurent/src/joplin/Tools/../CliClient/app/command-rmbook.js:17
 msgid "Deletes the notebook without asking for confirmation."
@@ -458,7 +458,7 @@ msgstr ""
 #: /mnt/c/Users/laurent/src/joplin/Tools/../CliClient/app/command-rmnote.js:27
 #: /mnt/c/Users/laurent/src/joplin/Tools/../ReactNativeClient/lib/components/screens/note.js:347
 msgid "Delete note?"
-msgstr ""
+msgstr "Видалити нотатку?"
 
 #: /mnt/c/Users/laurent/src/joplin/Tools/../CliClient/app/command-search.js:13
 msgid "Searches for the given <pattern> in all the notes."
@@ -1090,7 +1090,7 @@ msgstr ""
 
 #: /mnt/c/Users/laurent/src/joplin/Tools/../ElectronClient/app/gui/EncryptionConfigScreen.min.js:223
 msgid "Password"
-msgstr ""
+msgstr "Пароль"
 
 #: /mnt/c/Users/laurent/src/joplin/Tools/../ElectronClient/app/gui/EncryptionConfigScreen.min.js:228
 msgid "Password OK"
@@ -1127,15 +1127,15 @@ msgstr ""
 
 #: /mnt/c/Users/laurent/src/joplin/Tools/../ElectronClient/app/gui/ExtensionBadge.min.js:10
 msgid "Firefox Extension"
-msgstr ""
+msgstr "Розширення Firefox"
 
 #: /mnt/c/Users/laurent/src/joplin/Tools/../ElectronClient/app/gui/ExtensionBadge.min.js:17
 msgid "Chrome Web Store"
-msgstr ""
+msgstr "Веб-магазин Chrome"
 
 #: /mnt/c/Users/laurent/src/joplin/Tools/../ElectronClient/app/gui/ExtensionBadge.min.js:44
 msgid "Get it now:"
-msgstr ""
+msgstr "Завантажити зараз:"
 
 #: /mnt/c/Users/laurent/src/joplin/Tools/../ElectronClient/app/gui/Header.min.js:210
 msgid "Usage"
@@ -1148,11 +1148,11 @@ msgstr ""
 
 #: /mnt/c/Users/laurent/src/joplin/Tools/../ElectronClient/app/gui/MainScreen.min.js:108
 msgid "Please create a notebook first."
-msgstr ""
+msgstr "Будь ласка, спочатку створіть блокнот"
 
 #: /mnt/c/Users/laurent/src/joplin/Tools/../ElectronClient/app/gui/MainScreen.min.js:114
 msgid "Please create a notebook first"
-msgstr ""
+msgstr "Будь ласка, спочатку створіть блокнот"
 
 #: /mnt/c/Users/laurent/src/joplin/Tools/../ElectronClient/app/gui/MainScreen.min.js:121
 msgid "Notebook title:"
@@ -2429,19 +2429,19 @@ msgstr ""
 
 #: /mnt/c/Users/laurent/src/joplin/Tools/../ReactNativeClient/lib/components/note-list.js:116
 msgid "You currently have no notebooks."
-msgstr ""
+msgstr "Наразі у Вас немає блокнотів."
 
 #: /mnt/c/Users/laurent/src/joplin/Tools/../ReactNativeClient/lib/components/note-list.js:120
 msgid "Create a notebook"
-msgstr ""
+msgstr "Створити блокнот"
 
 #: /mnt/c/Users/laurent/src/joplin/Tools/../ReactNativeClient/lib/components/note-list.js:124
 msgid "There are currently no notes. Create one by clicking on the (+) button."
-msgstr ""
+msgstr "Нотатки відсутні. Створіть нову, натиснувши кнопку (+)."
 
 #: /mnt/c/Users/laurent/src/joplin/Tools/../ReactNativeClient/lib/components/screen-header.js:179
 msgid "Delete these notes?"
-msgstr ""
+msgstr "Видалити ці нотатки?"
 
 #: /mnt/c/Users/laurent/src/joplin/Tools/../ReactNativeClient/lib/components/screen-header.js:346
 msgid "Move to notebook..."
@@ -2462,24 +2462,24 @@ msgstr ""
 
 #: /mnt/c/Users/laurent/src/joplin/Tools/../ReactNativeClient/lib/components/select-date-time-dialog.js:65
 msgid "Clear alarm"
-msgstr ""
+msgstr "Очистити нагадування"
 
 #: /mnt/c/Users/laurent/src/joplin/Tools/../ReactNativeClient/lib/components/select-date-time-dialog.js:68
 msgid "Save alarm"
-msgstr ""
+msgstr "Зберегти нагадування"
 
 #: /mnt/c/Users/laurent/src/joplin/Tools/../ReactNativeClient/lib/components/select-date-time-dialog.js:86
 msgid "Select date"
-msgstr ""
+msgstr "Виберіть дату"
 
 #: /mnt/c/Users/laurent/src/joplin/Tools/../ReactNativeClient/lib/components/select-date-time-dialog.js:88
 msgid "Confirm"
-msgstr ""
+msgstr "Підтвердити"
 
 #: /mnt/c/Users/laurent/src/joplin/Tools/../ReactNativeClient/lib/components/side-menu-content.js:124
 #, javascript-format
 msgid "Notebook: %s"
-msgstr ""
+msgstr "Блокнот: %s"
 
 #: /mnt/c/Users/laurent/src/joplin/Tools/../ReactNativeClient/lib/components/side-menu-content.js:130
 msgid "Encrypted notebooks cannot be renamed"
@@ -2766,7 +2766,7 @@ msgstr ""
 
 #: /mnt/c/Users/laurent/src/joplin/Tools/../ReactNativeClient/lib/components/screens/note.js:689
 msgid "Share"
-msgstr ""
+msgstr "Поділитися"
 
 #: /mnt/c/Users/laurent/src/joplin/Tools/../ReactNativeClient/lib/components/screens/note.js:702
 msgid "Convert to note"
