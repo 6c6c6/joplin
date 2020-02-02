@@ -12,7 +12,7 @@ msgstr ""
 "X-Crowdin-Project: joplin\n"
 "X-Crowdin-Language: uk\n"
 "X-Crowdin-File: /master/CliClient/locales/joplin.pot\n"
-"PO-Revision-Date: 2020-02-02 10:37\n"
+"PO-Revision-Date: 2020-02-02 10:47\n"
 
 #: /mnt/c/Users/laurent/src/joplin/Tools/../CliClient/app/app-gui.js:445
 msgid "To delete a tag, untag the associated notes."
@@ -290,7 +290,7 @@ msgstr ""
 
 #: /mnt/c/Users/laurent/src/joplin/Tools/../CliClient/app/command-help.js:79
 msgid "To move from one pane to another, press Tab or Shift+Tab."
-msgstr ""
+msgstr "Для переходу від однієї панелі до іншої, натисніть клавішу Tab або Shift+Tab."
 
 #: /mnt/c/Users/laurent/src/joplin/Tools/../CliClient/app/command-help.js:80
 msgid "Use the arrows and page up/down to scroll the lists and text areas (including this console)."
@@ -310,7 +310,7 @@ msgstr "Для виходу із режиму командного рядка, �
 
 #: /mnt/c/Users/laurent/src/joplin/Tools/../CliClient/app/command-help.js:84
 msgid "For the list of keyboard shortcuts and config options, type `help keymap`"
-msgstr ""
+msgstr "Для списку гарячих клавіш і опцій, напишіть `help keymap`"
 
 #: /mnt/c/Users/laurent/src/joplin/Tools/../CliClient/app/command-import.js:14
 msgid "Imports data into Joplin."
@@ -435,7 +435,7 @@ msgstr "Видаляє заданий блокнот."
 
 #: /mnt/c/Users/laurent/src/joplin/Tools/../CliClient/app/command-rmbook.js:17
 msgid "Deletes the notebook without asking for confirmation."
-msgstr ""
+msgstr "Видаляє нотатник без підтвердження."
 
 #: /mnt/c/Users/laurent/src/joplin/Tools/../CliClient/app/command-rmbook.js:26
 #: /mnt/c/Users/laurent/src/joplin/Tools/../ReactNativeClient/lib/components/screens/notes.js:143
@@ -448,7 +448,7 @@ msgstr ""
 
 #: /mnt/c/Users/laurent/src/joplin/Tools/../CliClient/app/command-rmnote.js:17
 msgid "Deletes the notes without asking for confirmation."
-msgstr ""
+msgstr "Видаляє нотатки без підтвердження."
 
 #: /mnt/c/Users/laurent/src/joplin/Tools/../CliClient/app/command-rmnote.js:27
 #, javascript-format
