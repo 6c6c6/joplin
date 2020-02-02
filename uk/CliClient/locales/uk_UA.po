@@ -12,7 +12,7 @@ msgstr ""
 "X-Crowdin-Project: joplin\n"
 "X-Crowdin-Language: uk\n"
 "X-Crowdin-File: /master/CliClient/locales/joplin.pot\n"
-"PO-Revision-Date: 2020-02-02 13:46\n"
+"PO-Revision-Date: 2020-02-02 13:56\n"
 
 #: /mnt/c/Users/laurent/src/joplin/Tools/../CliClient/app/app-gui.js:445
 msgid "To delete a tag, untag the associated notes."
@@ -59,12 +59,12 @@ msgstr "y"
 
 #: /mnt/c/Users/laurent/src/joplin/Tools/../CliClient/app/app.js:169
 msgid "Cancelling background synchronisation... Please wait."
-msgstr "Скасування фонової синхронізації... Будь ласка, зачекайте."
+msgstr "Скасування синхронізації у тлі... Будь ласка, зачекайте."
 
 #: /mnt/c/Users/laurent/src/joplin/Tools/../CliClient/app/app.js:254
 #, javascript-format
 msgid "No such command: %s"
-msgstr "Такої команди не існує: %s"
+msgstr "Немає команди: %s"
 
 #: /mnt/c/Users/laurent/src/joplin/Tools/../CliClient/app/app.js:302
 #, javascript-format
@@ -2734,7 +2734,7 @@ msgstr ""
 #: /mnt/c/Users/laurent/src/joplin/Tools/../ReactNativeClient/lib/components/screens/note.js:630
 #, javascript-format
 msgid "Updated: %s"
-msgstr ""
+msgstr "Оновлено: %s"
 
 #: /mnt/c/Users/laurent/src/joplin/Tools/../ReactNativeClient/lib/components/screens/note.js:634
 msgid "View on map"
@@ -2778,19 +2778,19 @@ msgstr "Перетворити на завдання"
 
 #: /mnt/c/Users/laurent/src/joplin/Tools/../ReactNativeClient/lib/components/screens/note.js:715
 msgid "Properties"
-msgstr ""
+msgstr "Властивості"
 
 #: /mnt/c/Users/laurent/src/joplin/Tools/../ReactNativeClient/lib/components/screens/note.js:861
 msgid "Add body"
-msgstr ""
+msgstr "Додати вміст"
 
 #: /mnt/c/Users/laurent/src/joplin/Tools/../ReactNativeClient/lib/components/screens/note.js:896
 msgid "Add title"
-msgstr ""
+msgstr "Додати заголовок"
 
 #: /mnt/c/Users/laurent/src/joplin/Tools/../ReactNativeClient/lib/components/screens/onedrive-login.js:98
 msgid "Login with OneDrive"
-msgstr ""
+msgstr "Увійти з OneDrive"
 
 #: /mnt/c/Users/laurent/src/joplin/Tools/../ReactNativeClient/lib/components/screens/search.js:161
 msgid "Search"
