@@ -12,7 +12,7 @@ msgstr ""
 "X-Crowdin-Project: joplin\n"
 "X-Crowdin-Language: uk\n"
 "X-Crowdin-File: /master/CliClient/locales/joplin.pot\n"
-"PO-Revision-Date: 2020-02-02 08:06\n"
+"PO-Revision-Date: 2020-02-02 08:16\n"
 
 #: /mnt/c/Users/laurent/src/joplin/Tools/../CliClient/app/app-gui.js:445
 msgid "To delete a tag, untag the associated notes."
@@ -136,7 +136,7 @@ msgstr "Відображає задану нотатку."
 
 #: /mnt/c/Users/laurent/src/joplin/Tools/../CliClient/app/command-cat.js:17
 msgid "Displays the complete information about note."
-msgstr "Відображає повну інформацію про нотатку."
+msgstr "Показує повну інформацію про нотатку."
 
 #: /mnt/c/Users/laurent/src/joplin/Tools/../CliClient/app/command-config.js:13
 msgid "Gets or sets a config value. If [value] is not provided, it will show the value of [name]. If neither [name] nor [value] is provided, it will list the current configuration."
@@ -144,7 +144,7 @@ msgstr ""
 
 #: /mnt/c/Users/laurent/src/joplin/Tools/../CliClient/app/command-config.js:18
 msgid "Also displays unset and hidden config variables."
-msgstr "Також виводить невстановлені і приховані параметри конфігурації."
+msgstr "Також виводить невстановлені та приховані параметри конфігурації."
 
 #: /mnt/c/Users/laurent/src/joplin/Tools/../CliClient/app/command-config.js:79
 #, javascript-format
@@ -158,11 +158,11 @@ msgstr ""
 
 #: /mnt/c/Users/laurent/src/joplin/Tools/../CliClient/app/command-cp.js:13
 msgid "Duplicates the notes matching <note> to [notebook]. If no notebook is specified the note is duplicated in the current notebook."
-msgstr "Дублює нотатки, відповідні вислову <note>, в блокнот [notebook]. Якщо блокнот не обрано — нотатки дублюються в поточному блокноті."
+msgstr "Дублює нотатки, що відповідають виразу <note>, до нотатника [notebook]. Якщо нотатник не обрано, то нотатки дублюються в поточному."
 
 #: /mnt/c/Users/laurent/src/joplin/Tools/../CliClient/app/command-done.js:14
 msgid "Marks a to-do as done."
-msgstr "Позначає завдання як виконану"
+msgstr "Позначає завдання як виконане."
 
 #: /mnt/c/Users/laurent/src/joplin/Tools/../CliClient/app/command-done.js:21
 #, javascript-format
@@ -314,52 +314,52 @@ msgstr ""
 
 #: /mnt/c/Users/laurent/src/joplin/Tools/../CliClient/app/command-import.js:14
 msgid "Imports data into Joplin."
-msgstr ""
+msgstr "Імпорт даних до Joplin."
 
 #: /mnt/c/Users/laurent/src/joplin/Tools/../CliClient/app/command-import.js:24
 #, javascript-format
 msgid "Source format: %s"
-msgstr ""
+msgstr "Початковий формат: %s"
 
 #: /mnt/c/Users/laurent/src/joplin/Tools/../CliClient/app/command-import.js:24
 msgid "Do not ask for confirmation."
-msgstr ""
+msgstr "Не питати про підтвердження."
 
 #: /mnt/c/Users/laurent/src/joplin/Tools/../CliClient/app/command-import.js:43
 #: /mnt/c/Users/laurent/src/joplin/Tools/../ElectronClient/app/gui/ImportScreen.min.js:69
 #, javascript-format
 msgid "Found: %d."
-msgstr ""
+msgstr "Знайдено: %d."
 
 #: /mnt/c/Users/laurent/src/joplin/Tools/../CliClient/app/command-import.js:44
 #: /mnt/c/Users/laurent/src/joplin/Tools/../ElectronClient/app/gui/ImportScreen.min.js:70
 #, javascript-format
 msgid "Created: %d."
-msgstr ""
+msgstr "Створено: %d."
 
 #: /mnt/c/Users/laurent/src/joplin/Tools/../CliClient/app/command-import.js:45
 #: /mnt/c/Users/laurent/src/joplin/Tools/../ElectronClient/app/gui/ImportScreen.min.js:71
 #, javascript-format
 msgid "Updated: %d."
-msgstr ""
+msgstr "Оновлено: %d."
 
 #: /mnt/c/Users/laurent/src/joplin/Tools/../CliClient/app/command-import.js:46
 #: /mnt/c/Users/laurent/src/joplin/Tools/../ElectronClient/app/gui/ImportScreen.min.js:72
 #, javascript-format
 msgid "Skipped: %d."
-msgstr ""
+msgstr "Пропущено: %d."
 
 #: /mnt/c/Users/laurent/src/joplin/Tools/../CliClient/app/command-import.js:47
 #: /mnt/c/Users/laurent/src/joplin/Tools/../ElectronClient/app/gui/ImportScreen.min.js:73
 #, javascript-format
 msgid "Resources: %d."
-msgstr ""
+msgstr "Ресурси: %d."
 
 #: /mnt/c/Users/laurent/src/joplin/Tools/../CliClient/app/command-import.js:48
 #: /mnt/c/Users/laurent/src/joplin/Tools/../ElectronClient/app/gui/ImportScreen.min.js:74
 #, javascript-format
 msgid "Tagged: %d."
-msgstr ""
+msgstr "Мічені: %d."
 
 #: /mnt/c/Users/laurent/src/joplin/Tools/../CliClient/app/command-import.js:61
 msgid "Importing notes..."
@@ -1152,7 +1152,7 @@ msgstr "Будь ласка, спочатку створіть блокнот"
 
 #: /mnt/c/Users/laurent/src/joplin/Tools/../ElectronClient/app/gui/MainScreen.min.js:114
 msgid "Please create a notebook first"
-msgstr "Будь ласка, спочатку створіть блокнот"
+msgstr "Будь ласка, спочатку створіть нотатник"
 
 #: /mnt/c/Users/laurent/src/joplin/Tools/../ElectronClient/app/gui/MainScreen.min.js:121
 msgid "Notebook title:"
@@ -2429,11 +2429,11 @@ msgstr ""
 
 #: /mnt/c/Users/laurent/src/joplin/Tools/../ReactNativeClient/lib/components/note-list.js:116
 msgid "You currently have no notebooks."
-msgstr "Наразі у Вас немає блокнотів."
+msgstr "Наразі у Вас немає нотатників."
 
 #: /mnt/c/Users/laurent/src/joplin/Tools/../ReactNativeClient/lib/components/note-list.js:120
 msgid "Create a notebook"
-msgstr "Створити блокнот"
+msgstr "Створити нотатник"
 
 #: /mnt/c/Users/laurent/src/joplin/Tools/../ReactNativeClient/lib/components/note-list.js:124
 msgid "There are currently no notes. Create one by clicking on the (+) button."
@@ -2479,7 +2479,7 @@ msgstr "Підтвердити"
 #: /mnt/c/Users/laurent/src/joplin/Tools/../ReactNativeClient/lib/components/side-menu-content.js:124
 #, javascript-format
 msgid "Notebook: %s"
-msgstr "Блокнот: %s"
+msgstr "Нотатник: %s"
 
 #: /mnt/c/Users/laurent/src/joplin/Tools/../ReactNativeClient/lib/components/side-menu-content.js:130
 msgid "Encrypted notebooks cannot be renamed"
