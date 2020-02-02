@@ -12,7 +12,7 @@ msgstr ""
 "X-Crowdin-Project: joplin\n"
 "X-Crowdin-Language: uk\n"
 "X-Crowdin-File: /master/CliClient/locales/joplin.pot\n"
-"PO-Revision-Date: 2020-02-02 10:57\n"
+"PO-Revision-Date: 2020-02-02 11:06\n"
 
 #: /mnt/c/Users/laurent/src/joplin/Tools/../CliClient/app/app-gui.js:445
 msgid "To delete a tag, untag the associated notes."
@@ -682,36 +682,36 @@ msgstr ""
 #: /mnt/c/Users/laurent/src/joplin/Tools/../ElectronClient/app/app.js:714
 #, javascript-format
 msgid "Hide %s"
-msgstr ""
+msgstr "Приховати %s"
 
 #: /mnt/c/Users/laurent/src/joplin/Tools/../ElectronClient/app/app.js:721
 msgid "Quit"
-msgstr ""
+msgstr "Вийти"
 
 #: /mnt/c/Users/laurent/src/joplin/Tools/../ElectronClient/app/app.js:735
 msgid "Close Window"
-msgstr ""
+msgstr "Закрити вікно"
 
 #: /mnt/c/Users/laurent/src/joplin/Tools/../ElectronClient/app/app.js:773
 msgid "&Edit"
-msgstr ""
+msgstr "&Редагувати"
 
 #: /mnt/c/Users/laurent/src/joplin/Tools/../ElectronClient/app/app.js:776
 #: /mnt/c/Users/laurent/src/joplin/Tools/../ElectronClient/app/gui/NoteText.min.js:800
 msgid "Copy"
-msgstr ""
+msgstr "Копіювати"
 
 #: /mnt/c/Users/laurent/src/joplin/Tools/../ElectronClient/app/app.js:781
 msgid "Cut"
-msgstr ""
+msgstr "Вирізати"
 
 #: /mnt/c/Users/laurent/src/joplin/Tools/../ElectronClient/app/app.js:786
 msgid "Paste"
-msgstr ""
+msgstr "Вставити"
 
 #: /mnt/c/Users/laurent/src/joplin/Tools/../ElectronClient/app/app.js:791
 msgid "Select all"
-msgstr ""
+msgstr "Вибрати все"
 
 #: /mnt/c/Users/laurent/src/joplin/Tools/../ElectronClient/app/app.js:799
 #: /mnt/c/Users/laurent/src/joplin/Tools/../ElectronClient/app/gui/NoteText.min.js:1605
@@ -752,7 +752,7 @@ msgstr ""
 #: /mnt/c/Users/laurent/src/joplin/Tools/../ReactNativeClient/lib/components/screens/note.js:696
 #: /mnt/c/Users/laurent/src/joplin/Tools/../ReactNativeClient/lib/components/screens/tags.js:101
 msgid "Tags"
-msgstr ""
+msgstr "Мітки"
 
 #: /mnt/c/Users/laurent/src/joplin/Tools/../ElectronClient/app/app.js:889
 msgid "Search in all the notes"
@@ -790,24 +790,24 @@ msgstr ""
 
 #: /mnt/c/Users/laurent/src/joplin/Tools/../ElectronClient/app/app.js:994
 msgid "&Tools"
-msgstr ""
+msgstr "&Інструменти"
 
 #: /mnt/c/Users/laurent/src/joplin/Tools/../ElectronClient/app/app.js:998
 msgid "&Help"
-msgstr ""
+msgstr "&Допомога"
 
 #: /mnt/c/Users/laurent/src/joplin/Tools/../ElectronClient/app/app.js:1000
 msgid "Website and documentation"
-msgstr ""
+msgstr "Сайт та документація"
 
 #: /mnt/c/Users/laurent/src/joplin/Tools/../ElectronClient/app/app.js:1004
 msgid "Joplin Forum"
-msgstr ""
+msgstr "Форум Joplin"
 
 #: /mnt/c/Users/laurent/src/joplin/Tools/../ElectronClient/app/app.js:1007
 #: /mnt/c/Users/laurent/src/joplin/Tools/../ReactNativeClient/lib/components/screens/config.js:487
 msgid "Make a donation"
-msgstr ""
+msgstr "Зробити пожертвування"
 
 #: /mnt/c/Users/laurent/src/joplin/Tools/../ElectronClient/app/app.js:1019
 msgid "Toggle development tools"
@@ -816,11 +816,11 @@ msgstr ""
 #: /mnt/c/Users/laurent/src/joplin/Tools/../ElectronClient/app/app.js:1153
 #, javascript-format
 msgid "Open %s"
-msgstr ""
+msgstr "Відкрити %s"
 
 #: /mnt/c/Users/laurent/src/joplin/Tools/../ElectronClient/app/app.js:1155
 msgid "Exit"
-msgstr ""
+msgstr "Вихід"
 
 #: /mnt/c/Users/laurent/src/joplin/Tools/../ElectronClient/app/bridge.js:102
 #: /mnt/c/Users/laurent/src/joplin/Tools/../ElectronClient/app/bridge.js:112
@@ -853,7 +853,7 @@ msgstr ""
 #: /mnt/c/Users/laurent/src/joplin/Tools/../ReactNativeClient/lib/components/screens/encryption-config.js:186
 #: /mnt/c/Users/laurent/src/joplin/Tools/../ReactNativeClient/lib/components/screens/note.js:85
 msgid "Cancel"
-msgstr ""
+msgstr "Скасувати"
 
 #: /mnt/c/Users/laurent/src/joplin/Tools/../ElectronClient/app/checkForUpdates.js:137
 msgid "Current version is up-to-date."
@@ -871,12 +871,12 @@ msgstr ""
 #: /mnt/c/Users/laurent/src/joplin/Tools/../ElectronClient/app/checkForUpdates.js:150
 #, javascript-format
 msgid "Your version: %s"
-msgstr ""
+msgstr "Ваша версія: %s"
 
 #: /mnt/c/Users/laurent/src/joplin/Tools/../ElectronClient/app/checkForUpdates.js:150
 #, javascript-format
 msgid "New version: %s"
-msgstr ""
+msgstr "Нова версія: %s"
 
 #: /mnt/c/Users/laurent/src/joplin/Tools/../ElectronClient/app/checkForUpdates.js:151
 msgid "Yes"
@@ -1018,28 +1018,28 @@ msgstr ""
 #: /mnt/c/Users/laurent/src/joplin/Tools/../ElectronClient/app/gui/ConfigScreen.min.js:637
 #: /mnt/c/Users/laurent/src/joplin/Tools/../ReactNativeClient/lib/components/screens/note.js:868
 msgid "Edit"
-msgstr ""
+msgstr "Редагувати"
 
 #: /mnt/c/Users/laurent/src/joplin/Tools/../ElectronClient/app/gui/ConfigScreen.min.js:739
 #: /mnt/c/Users/laurent/src/joplin/Tools/../ElectronClient/app/gui/Header.min.js:255
 #: /mnt/c/Users/laurent/src/joplin/Tools/../ElectronClient/app/gui/NoteRevisionViewer.min.js:188
 #: /mnt/c/Users/laurent/src/joplin/Tools/../ElectronClient/app/gui/NoteText.min.js:1586
 msgid "Back"
-msgstr ""
+msgstr "Назад"
 
 #: /mnt/c/Users/laurent/src/joplin/Tools/../ElectronClient/app/gui/ConfigScreen.min.js:756
 msgid "Apply"
-msgstr ""
+msgstr "Застосувати"
 
 #: /mnt/c/Users/laurent/src/joplin/Tools/../ElectronClient/app/gui/DropboxLoginScreen.min.js:67
 #: /mnt/c/Users/laurent/src/joplin/Tools/../ReactNativeClient/lib/components/screens/dropbox-login.js:63
 msgid "Submit"
-msgstr ""
+msgstr "Надіслати"
 
 #: /mnt/c/Users/laurent/src/joplin/Tools/../ElectronClient/app/gui/EncryptionConfigScreen.min.js:104
 #: /mnt/c/Users/laurent/src/joplin/Tools/../ReactNativeClient/lib/components/screens/encryption-config.js:128
 msgid "Save"
-msgstr ""
+msgstr "Зберегти"
 
 #: /mnt/c/Users/laurent/src/joplin/Tools/../ElectronClient/app/gui/EncryptionConfigScreen.min.js:141
 msgid "Disabling encryption means *all* your notes and attachments are going to be re-synchronised and sent unencrypted to the sync target. Do you wish to continue?"
@@ -1081,12 +1081,12 @@ msgstr ""
 #: /mnt/c/Users/laurent/src/joplin/Tools/../ElectronClient/app/gui/EncryptionConfigScreen.min.js:213
 #: /mnt/c/Users/laurent/src/joplin/Tools/../ElectronClient/app/gui/NotePropertiesDialog.min.js:27
 msgid "Created"
-msgstr ""
+msgstr "Створено"
 
 #: /mnt/c/Users/laurent/src/joplin/Tools/../ElectronClient/app/gui/EncryptionConfigScreen.min.js:218
 #: /mnt/c/Users/laurent/src/joplin/Tools/../ElectronClient/app/gui/NotePropertiesDialog.min.js:28
 msgid "Updated"
-msgstr ""
+msgstr "Оновлено"
 
 #: /mnt/c/Users/laurent/src/joplin/Tools/../ElectronClient/app/gui/EncryptionConfigScreen.min.js:223
 msgid "Password"
