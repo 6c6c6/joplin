@@ -12,7 +12,7 @@ msgstr ""
 "X-Crowdin-Project: joplin\n"
 "X-Crowdin-Language: uk\n"
 "X-Crowdin-File: /master/CliClient/locales/joplin.pot\n"
-"PO-Revision-Date: 2020-02-02 13:37\n"
+"PO-Revision-Date: 2020-02-02 13:46\n"
 
 #: /mnt/c/Users/laurent/src/joplin/Tools/../CliClient/app/app-gui.js:445
 msgid "To delete a tag, untag the associated notes."
@@ -20,7 +20,7 @@ msgstr ""
 
 #: /mnt/c/Users/laurent/src/joplin/Tools/../CliClient/app/app-gui.js:455
 msgid "Please select the note or notebook to be deleted first."
-msgstr "Будь ласка, спочатку виберіть нотатку або блокнот для видалення."
+msgstr "Будь ласка, спочатку виберіть нотатку або нотатник для видалення."
 
 #: /mnt/c/Users/laurent/src/joplin/Tools/../CliClient/app/app-gui.js:719
 msgid "Press Ctrl+D or type \"exit\" to exit the application"
@@ -2750,19 +2750,19 @@ msgstr "Долучити..."
 
 #: /mnt/c/Users/laurent/src/joplin/Tools/../ReactNativeClient/lib/components/screens/note.js:670
 msgid "Choose an option"
-msgstr ""
+msgstr "Оберіть опцію"
 
 #: /mnt/c/Users/laurent/src/joplin/Tools/../ReactNativeClient/lib/components/screens/note.js:670
 msgid "Take photo"
-msgstr ""
+msgstr "Сфотографувати"
 
 #: /mnt/c/Users/laurent/src/joplin/Tools/../ReactNativeClient/lib/components/screens/note.js:670
 msgid "Attach photo"
-msgstr ""
+msgstr "Долучити фото"
 
 #: /mnt/c/Users/laurent/src/joplin/Tools/../ReactNativeClient/lib/components/screens/note.js:670
 msgid "Attach any file"
-msgstr ""
+msgstr "Долучити будь-який файл"
 
 #: /mnt/c/Users/laurent/src/joplin/Tools/../ReactNativeClient/lib/components/screens/note.js:689
 msgid "Share"
@@ -2770,11 +2770,11 @@ msgstr "Поділитися"
 
 #: /mnt/c/Users/laurent/src/joplin/Tools/../ReactNativeClient/lib/components/screens/note.js:702
 msgid "Convert to note"
-msgstr ""
+msgstr "Перетворити на нотатку"
 
 #: /mnt/c/Users/laurent/src/joplin/Tools/../ReactNativeClient/lib/components/screens/note.js:702
 msgid "Convert to todo"
-msgstr ""
+msgstr "Перетворити на завдання"
 
 #: /mnt/c/Users/laurent/src/joplin/Tools/../ReactNativeClient/lib/components/screens/note.js:715
 msgid "Properties"
@@ -2794,5 +2794,5 @@ msgstr ""
 
 #: /mnt/c/Users/laurent/src/joplin/Tools/../ReactNativeClient/lib/components/screens/search.js:161
 msgid "Search"
-msgstr ""
+msgstr "Пошук"
 
